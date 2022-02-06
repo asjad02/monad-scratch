@@ -1,0 +1,17 @@
+target/
+
+.sbtopts
+
+# vim
+*.sw?
+
+# intellij
+.idea/
+
+
+# Metals
+.metals/
+.bsp/
+.bloop/
+metals.sbt
+.vscode
