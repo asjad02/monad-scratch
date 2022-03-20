@@ -1,6 +1,5 @@
 Learning Monad from devinsideyou youtube tutorial
 
-Link
 
 [![Watch on YouTube](resources/thumbnail_youtube.jpg)](https://www.youtube.com/watch?v=FZAmPhjV11A&list=PLJGDHERh23x-9bxGrCbyX-tXJG99XczNC "Watch on YouTube")
 
